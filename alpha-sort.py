@@ -1,0 +1,5 @@
+name=input("Enter your name : \n")
+y=list(name)
+y.sort()
+s="".join(y)
+print(s)
